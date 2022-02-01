@@ -19,7 +19,6 @@
 
 <div align="center"> 
 
-
  ![visitas](https://visitor-badge.glitch.me/badge?page_id=wlos2020.wlos2020.id&left_color=green&right_color=black)
   
 <!---
