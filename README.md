@@ -23,7 +23,6 @@
   
  
   
-  ![Snake animation](https://github.com/wlos2020/wlos2020/blob/output/github-contribution-grid-snake.svg)
  
 <!---
 wlos2020/wlos2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
