@@ -17,13 +17,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlos2020&show_icons=true&theme=merko)
 
-<div align="center">Visitantes
-<!-- Inicia codigo Contador -->
-<div align="center"><a title='Contador de Visitas' href='https://megacontador.com.br/' ><img src='https://megacontador.com.br/img-R91FIyiQBpwdSDMf-9.gif' border='0' alt='Contador de visitas'></a></div>
-<!-- Fim do codigo Contador -->
+<div align="center"> 
 
-  
 
+ ![visitas](https://visitor-badge.glitch.me/badge?page_id=wlos2020.wlos2020.id&left_color=green&right_color=black)
   
 <!---
 wlos2020/wlos2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
